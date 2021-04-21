@@ -5,4 +5,6 @@ CSP est un MVP très minimaliste qui permet de marquer le début d'un projet ope
 # Déroulement 
 L'exemple du CSP est simple mais très informatif sur la méthode. Elle comporte trois partie 
 
-1. La partie Front-End : L'utilisateur saisit un ensemble de ville
+1. La partie Front-End : L'utilisateur saisit un ensemble de villes et peut avoir un parcours ou mon minimise la distance parcourue.
+2. La partie vulgarisation et modélisation :
+3. La partie Back-End: 
