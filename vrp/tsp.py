@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 from .models import City
 def get_distance(start, stop):
-	api = "AIzaSyBvUzie1ieU8CaH1ksJDoeHaNhm6fjGevM" 
+	api = "google api key" 
 	url = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=" + start + "&destinations=" + stop + "&key=" + api
 	link = requests.get(url)
 	json_loc = link.json()
