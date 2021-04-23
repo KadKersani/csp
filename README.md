@@ -8,8 +8,10 @@ L'exemple du CSP est simple mais très informatif sur la méthode, et comporte t
 1. La partie Front-End : L'utilisateur saisit un ensemble de villes dont il veut avoir un parcours ou on minimise la distance parcourue.
 2. La partie Back-End: Un progragramme qui se base sur des algorithmes approximant le mieux, le problème du TSP ()  
 3. La partie vulgarisation et modélisation : Cette partie est la plus importante, elle peut avoir deux manières duales de procéder:
+
         a. Départ de l'utilisateur: Analyser puis Modéliser une problèmatique ou une situation économique, dans les technologies déjà implémentées, et trouver           
           ensuite, un canal de communication pour saisir les données de l'utilisateur par exemple. Nous pouvons penser à des parceurs de documents (Excel, word, ..) 
+          
         b. Départ du Back-End: Lorsqu'une techno est déjà implémentée en Back-End comme le TSP dans notre cas, nous pouvons chercher à lui trouver des applications          
         avec une façon de l'alimenter du coté front.
  
